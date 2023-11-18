@@ -1,0 +1,2 @@
+# HR-Analysis-DASHBOARD
+Developed an HR Analytics Dashboard to analyze attrition rates based on diverse employee categories. Utilized a dataset encompassing age bands, attrition labels, departments, educational fields, employee numbers, genders, job roles, marital statuses, and more. The dashboard aimed to identify attrition trends across these categories, providing insights crucial for understanding and mitigating employee turnover
